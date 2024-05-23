@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kazi Md. Rakibul Hassan 
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in SE, ML, AI, DA
 - 🌱 I’m currently learning at Independent University Bangladesh in Computer Science
 - 📫 How to reach me kazimdrakibulhassan@gmail.com
 
