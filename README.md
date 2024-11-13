@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi there! I'm Rakib 👋
+
+![GitHub Banner](https://github.com/user-attachments/assets/5eb8a126-e88c-4077-84da-889278fcf4c3) 
 - 👋 Hi, I’m Kazi Md. Rakibul Hassan <br>- 👀 I’m interested in SE, ML, AI, DA<br>- 🌱 I’m currently learning at Independent University Bangladesh in Computer Science<br>- 📫 How to reach me kazimdrakibulhassan@gmail.com
 
 
