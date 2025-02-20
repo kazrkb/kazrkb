@@ -104,12 +104,6 @@
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
-</div>
-
-
-
-<div align="center">
   <h4>💬 Get in Touch</h4>
   <p>Feel free to contact me about collaborations, projects, or just to say hi!</p>
 </div>
