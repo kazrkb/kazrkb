@@ -1,23 +1,139 @@
-# Hi! I'm Rakib 👋
+# <div align="center">👨‍💻 Kazi Md. Rakibul Hassan | Software Developer</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Enthusiast;Software+Engineer;Data+Analyst;Welcome+to+my+Profile!" alt="Typing SVG" />
+</div>
 
-- 👋 Hi, I’m Kazi Md. Rakibul Hassan <br>- 👀 I’m interested in SE, ML, AI, DA<br>- 🌱 I’m currently learning at Independent University Bangladesh in Computer Science<br>- 📫 How to reach me kazimdrakibulhassan@gmail.com
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=km-rakib&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
+## 🚀 About Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakib826) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kazi-md-rakibul-hassan-9158aa187) 
+- 🎓 Computer Science student at **Independent University Bangladesh**
+- 💻 Exploring Software Engineering, Machine Learning, AI, and Data Analysis
+- 🌱 Currently developing skills in full-stack web development and data science
+- 📫 Reach me at: **kazimdrakibulhassan@gmail.com**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakib826&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakib826&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib826&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+## 🌐 Connect With Me:
+
+<div align="left">
+  <a href="https://linkedin.com/in/kazi-md-rakibul-hassan-9158aa187" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/km-rakib" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:kazimdrakibulhassan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+## 💻 Skills & Technologies
+
+<details>
+  <summary><b>📋 Languages</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🧰 Frameworks & Libraries</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+    <img src="https://img.shields.io/badge/Context--API-0081CB?style=for-the-badge&logo=react&logoColor=white" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🔧 Tools & Platforms</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  </p>
+</details>
+
+<details>
+  <summary><b>📊 Data Analysis</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🎨 Design</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6" />
+  </p>
+</details>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=km-rakib&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rakib's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-rakib&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=km-rakib&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rakib826&theme=light&no-frame=false&no-bg=false&margin-w=4)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rakib826&limit=5&theme=light&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=km-rakib&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=km-rakib&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+### ⚡ Top Repositories
+
+<div align="center">
+  <a href="https://github.com/km-rakib/YOUR-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=km-rakib&repo=YOUR-REPO-1&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/km-rakib/YOUR-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=km-rakib&repo=YOUR-REPO-2&theme=radical&hide_border=true" />
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rakib826&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <h4>✍️ Random Dev Quote</h4>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
+
+<!-- SEO Keywords -->
+<!-- Kazi Md. Rakibul Hassan, km-rakib, Software Developer, Web Developer, Data Analyst, Machine Learning, AI, Computer Science, Independent University Bangladesh, React Developer, JavaScript Developer, Python Developer -->
