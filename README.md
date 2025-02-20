@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science student at **Independent University Bangladesh**
-- 💻 Exploring Software Engineering, Machine Learning, AI, and Data Analysis
+- 💻 Exploring MERN Stack, Machine Learning and Data Analysis
 - 🌱 Currently developing skills in full-stack web development and data science
 - 📫 Reach me at: **kazimdrakibulhassan@gmail.com**
 
