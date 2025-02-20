@@ -105,7 +105,7 @@
 ### ⭐ Featured Projects
 
 <div align="center">
-  <a href="https://github.com/km-rakib/project-1">
+  <a href="https://github.com/km-rakib/book-worm">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=km-rakib&repo=project-1&theme=buefy&hide_border=false" />
   </a>
   <a href="https://github.com/km-rakib/project-2">
@@ -114,7 +114,7 @@
 </div>
 
 <div align="center">
-  <i>Note: Replace "project-1" and "project-2" with your actual repository names</i>
+  <i>Note: Replace "book-worm" and "project-2" with your actual repository names</i>
 </div>
 
 ---
