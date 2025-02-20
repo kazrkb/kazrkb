@@ -102,33 +102,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=km-rakib&theme=minimal&hide_border=false" alt="Contribution Graph" />
 </div>
 
-### ⭐ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/km-rakib/book-worm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=km-rakib&repo=project-1&theme=buefy&hide_border=false" />
-  </a>
-  <a href="https://github.com/km-rakib/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=km-rakib&repo=project-2&theme=buefy&hide_border=false" />
-  </a>
-</div>
-
-<div align="center">
-  <i>Note: Replace "book-worm" and "project-2" with your actual repository names</i>
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
 </div>
 
-<div align="center">
-  <h3>📝 Latest Blog Posts</h3>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-  <i>Coming soon...</i>
-</div>
+
 
 <div align="center">
   <h4>💬 Get in Touch</h4>
