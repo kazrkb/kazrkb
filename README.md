@@ -15,7 +15,7 @@
 - 🌱 Currently developing skills in full-stack web development and data science
 - 📫 Reach me at: **kazimdrakibulhassan@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif">
 
 ## 🌐 Connect With Me:
 
