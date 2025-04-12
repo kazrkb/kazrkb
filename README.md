@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=km-rakib&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kazi-md-rakibul&style=flat-square&color=brightgreen" alt="Profile Views" />
 </div>
 
 ## 🚀 About Me
@@ -82,25 +82,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=km-rakib&show_icons=true&theme=buefy&hide_border=false&count_private=true" alt="Rakib's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-rakib&layout=compact&theme=buefy&hide_border=false" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kazi-md-rakibul&show_icons=true&theme=buefy&hide_border=false&count_private=true" alt="Rakib's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-md-rakibul&layout=compact&theme=buefy&hide_border=false" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=km-rakib&theme=buefy&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazi-md-rakibul&theme=buefy&hide_border=false" alt="GitHub Streak" />
 </div>
 
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=km-rakib&theme=flat&no-frame=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kazi-md-rakibul&theme=flat&no-frame=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=km-rakib&theme=minimal&hide_border=false" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazi-md-rakibul&theme=minimal&hide_border=false" alt="Contribution Graph" />
 </div>
 
 
@@ -110,4 +110,4 @@
 </div>
 
 <!-- SEO Keywords -->
-<!-- Kazi Md. Rakibul Hassan, km-rakib, Software Developer, Web Developer, Data Analyst, Machine Learning, AI, Computer Science, Independent University Bangladesh, React Developer, JavaScript Developer, Python Developer -->
+<!-- Kazi Md. Rakibul Hassan, kazi-md-rakibul, Software Developer, Web Developer, Data Analyst, Machine Learning, AI, Computer Science, Independent University Bangladesh, React Developer, JavaScript Developer, Python Developer -->
