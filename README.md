@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Kazi Md. Rakibul Hassan | Independent University Bangladesh</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack;Data+Analyst;Welcome+to+my+Profile!&color=000000&background=FFFFFF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Learning+MERN+Stack;Learning+Data+Analysis;Welcome+to+my+Profile!&color=000000&background=FFFFFF" alt="Typing SVG" />
 </div>
 
 <div align="center">
