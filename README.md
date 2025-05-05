@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kazi-md-rakibul&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kazimdrakibulhassan&style=flat-square&color=brightgreen" alt="Profile Views" />
 </div>
 
 ## 🚀 About Me
