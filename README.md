@@ -20,7 +20,7 @@
 ## 🌐 Connect With Me:
 
 <div align="left">
-  <a href="https://linkedin.com/in/kazi-rakib" target="_blank">
+  <a href="https://linkedin.com/in/kazimdrakibulhassan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/trakib826" target="_blank">
@@ -82,25 +82,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazi-md-rakibul&show_icons=true&theme=buefy&hide_border=false&count_private=true" alt="Rakib's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-md-rakibul&layout=compact&theme=buefy&hide_border=false" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kazimdrakibulhassan&show_icons=true&theme=buefy&hide_border=false&count_private=true" alt="Rakib's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimdrakibulhassan&layout=compact&theme=buefy&hide_border=false" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazi-md-rakibul&theme=buefy&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimdrakibulhassan&theme=buefy&hide_border=false" alt="GitHub Streak" />
 </div>
 
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kazi-md-rakibul&theme=flat&no-frame=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kazimdrakibulhassan&theme=flat&no-frame=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazi-md-rakibul&theme=minimal&hide_border=false" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazimdrakibulhassan&theme=minimal&hide_border=false" alt="Contribution Graph" />
 </div>
 
 
@@ -110,4 +110,4 @@
 </div>
 
 <!-- SEO Keywords -->
-<!-- Kazi Md. Rakibul Hassan, kazi-md-rakibul, Software Developer, Web Developer, Data Analyst, Machine Learning, AI, Computer Science, Independent University Bangladesh, React Developer, JavaScript Developer, Python Developer -->
+<!-- Kazi Md. Rakibul Hassan, kazimdrakibulhassan, Software Developer, Web Developer, Data Analyst, Machine Learning, AI, Computer Science, Independent University Bangladesh, React Developer, JavaScript Developer, Python Developer -->
