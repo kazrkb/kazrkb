@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kazimdrakibulhassan&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kazrkb&style=flat-square&color=brightgreen" alt="Profile Views" />
 </div>
 
 ## 🚀 About Me
@@ -82,25 +82,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazimdrakibulhassan&show_icons=true&theme=buefy&hide_border=false&count_private=true" alt="Rakib's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimdrakibulhassan&layout=compact&theme=buefy&hide_border=false" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kazrkb&show_icons=true&theme=buefy&hide_border=false&count_private=true" alt="Rakib's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazrkb&layout=compact&theme=buefy&hide_border=false" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimdrakibulhassan&theme=buefy&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazrkb&theme=buefy&hide_border=false" alt="GitHub Streak" />
 </div>
 
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kazimdrakibulhassan&theme=flat&no-frame=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kazrkb&theme=flat&no-frame=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazimdrakibulhassan&theme=minimal&hide_border=false" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazrkb&theme=minimal&hide_border=false" alt="Contribution Graph" />
 </div>
 
 
@@ -110,4 +110,4 @@
 </div>
 
 <!-- SEO Keywords -->
-<!-- Kazi Md. Rakibul Hassan, kazimdrakibulhassan, Software Developer, Web Developer, Data Analyst, Machine Learning, AI, Computer Science, Independent University Bangladesh, React Developer, JavaScript Developer, Python Developer -->
+<!-- Kazi Md. Rakibul Hassan, kazrkb, Software Developer, Web Developer, Data Analyst, Machine Learning, AI, Computer Science, Independent University Bangladesh, React Developer, JavaScript Developer, Python Developer -->
