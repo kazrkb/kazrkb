@@ -13,7 +13,7 @@
 - 🎓 Computer Science student at **Independent University Bangladesh**
 - 💻 Exploring MERN Stack, Machine Learning and Data Analysis
 - 🌱 Currently developing skills in full-stack web development and data science
-- 📫 Reach me at: **kazimdrakibulhassan@gmail.com**
+- 📫 Reach me at: **kazrkb@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif">
 
