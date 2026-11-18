@@ -10,7 +10,7 @@ I build computer vision systems and take them all the way to production. I've de
 
 <br/>
 
-## Experience
+<img src="assets/h-experience.svg" height="56" alt="Experience" />
 
 <img src="assets/experience-fringecore.svg" width="100%" alt="Machine Learning Trainee at FringeCore (City Group): two-stage RF-DETR + SwinV2 pipeline, 96% accuracy on 91 SKUs, precision raised from 60% to 75%, led 5 annotators" />
 
@@ -18,7 +18,7 @@ I build computer vision systems and take them all the way to production. I've de
 
 <br/>
 
-## Selected work
+<img src="assets/h-work.svg" height="56" alt="Selected work" />
 
 <p>
   <a href="https://kazrkb.github.io/portfolio/project.html?id=nodule"><img src="assets/project-pneumovision.svg" width="49%" alt="PneumoVision" /></a>
@@ -41,13 +41,13 @@ I build computer vision systems and take them all the way to production. I've de
 
 <br/>
 
-## Publications
+<img src="assets/h-publications.svg" height="56" alt="Publications" />
 
 <img src="assets/publications.svg" width="100%" alt="Publications: MIET 2026, A Modular Zero-Shot Framework for Multi-Domain Medical Diagnosis via MobileSAM and BiomedCLIP. FICTA 2026, YOLO26m-CW: A Water-Augmented Spatial Attention Framework for Robust Riverine Waste Monitoring. ICEFronT 2026, Establishing Machine Learning Benchmarks for Type-2 Diabetes Mellitus Prediction in Bangladesh. ECCT 2026, Device-Independent Human Activity Recognition across Wearable Sensors in an IoT Framework." />
 
 <br/>
 
-## Toolbox
+<img src="assets/h-toolbox.svg" height="56" alt="Toolbox" />
 
 <img src="assets/toolbox.svg" width="100%" alt="Toolbox. Modeling: PyTorch, TensorFlow, scikit-learn, XGBoost, OpenCV, YOLO, RF-DETR, SwinV2, ViT. Foundation models and LLMs: BiomedCLIP, MobileSAM, LangChain, RAG, Claude Code, Codex. Shipping: FastAPI, Docker, ONNX, AWS (EC2, S3, VPC, ALB), Flask, Streamlit, Hugging Face Spaces. Data: Python, PostgreSQL, MySQL, pandas, NumPy, CVAT, Linux, Git." />
 

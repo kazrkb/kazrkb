@@ -1,54 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Key results: 96% SKU accuracy, AUC 0.973, 3.2 ms per request, +23.8 mmAP, 4 papers">
-<style>
-.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
-.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
-.pulse{animation:pulse 2.8s ease-in-out infinite}
-@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
-.p1{animation-delay:.35s}.p2{animation-delay:.7s}.p3{animation-delay:1.05s}.p4{animation-delay:1.4s}.p5{animation-delay:1.75s}
-.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
-@keyframes flow{to{stroke-dashoffset:-20}}
-.heat{transform-box:fill-box;transform-origin:center;animation:heat 3.2s ease-in-out infinite}
-@keyframes heat{0%,100%{opacity:.75;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
-.wave{animation:wave 6s linear infinite}
-@keyframes wave{to{transform:translateX(-60px)}}
-.bob{animation:bob 3s ease-in-out infinite}
-@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
-</style>
-<defs>
-<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
-<radialGradient id="cam" cx=".5" cy=".5" r=".5">
- <stop offset="0" stop-color="#FFE08A" stop-opacity=".95"/><stop offset=".35" stop-color="#FF8A1F" stop-opacity=".75"/>
- <stop offset=".7" stop-color="#E0245E" stop-opacity=".35"/><stop offset="1" stop-color="#E0245E" stop-opacity="0"/></radialGradient>
-<radialGradient id="lung" cx=".5" cy=".45" r=".52">
- <stop offset="0" stop-color="#C9D3E6" stop-opacity=".18"/><stop offset=".7" stop-color="#C9D3E6" stop-opacity=".06"/>
- <stop offset="1" stop-color="#C9D3E6" stop-opacity="0"/></radialGradient>
-<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
-</defs>
-<rect width="1200" height="150" rx="20" fill="#0B0F1A"/>
-<rect x=".5" y=".5" width="1199" height="149" rx="19.5" fill="none" stroke="#1E2638"/>
-<rect x="34.0" y="34" width="18" height="3" rx="1.5" fill="url(#hot)"/>
-<text class="sans" x="34.0" y="82" font-size="38" fill="#F3F5FA" font-weight="700" letter-spacing="-1">96%</text>
-<text class="mono" x="34.0" y="106" font-size="13" fill="#A3ADC2">SKU accuracy</text>
-<text class="mono" x="34.0" y="124" font-size="13" fill="#6B7590">91 product classes</text>
-<line x1="240.0" y1="30" x2="240.0" y2="120" stroke="#1E2638"/>
-<rect x="274.0" y="34" width="18" height="3" rx="1.5" fill="url(#hot)"/>
-<text class="sans" x="274.0" y="82" font-size="38" fill="#F3F5FA" font-weight="700" letter-spacing="-1">0.973</text>
-<text class="mono" x="274.0" y="106" font-size="13" fill="#A3ADC2">AUC</text>
-<text class="mono" x="274.0" y="124" font-size="13" fill="#6B7590">pneumonia detection</text>
-<line x1="480.0" y1="30" x2="480.0" y2="120" stroke="#1E2638"/>
-<rect x="514.0" y="34" width="18" height="3" rx="1.5" fill="url(#hot)"/>
-<text class="sans" x="514.0" y="82" font-size="38" fill="#F3F5FA" font-weight="700" letter-spacing="-1">3.2 ms</text>
-<text class="mono" x="514.0" y="106" font-size="13" fill="#A3ADC2">per request</text>
-<text class="mono" x="514.0" y="124" font-size="13" fill="#6B7590">on AWS</text>
-<line x1="720.0" y1="30" x2="720.0" y2="120" stroke="#1E2638"/>
-<rect x="754.0" y="34" width="18" height="3" rx="1.5" fill="url(#hot)"/>
-<text class="sans" x="754.0" y="82" font-size="38" fill="#F3F5FA" font-weight="700" letter-spacing="-1">+23.8</text>
-<text class="mono" x="754.0" y="106" font-size="13" fill="#A3ADC2">mmAP over</text>
-<text class="mono" x="754.0" y="124" font-size="13" fill="#6B7590">Cascade R-CNN</text>
-<line x1="960.0" y1="30" x2="960.0" y2="120" stroke="#1E2638"/>
-<rect x="994.0" y="34" width="18" height="3" rx="1.5" fill="url(#hot)"/>
-<text class="sans" x="994.0" y="82" font-size="38" fill="#F3F5FA" font-weight="700" letter-spacing="-1">4</text>
-<text class="mono" x="994.0" y="106" font-size="13" fill="#A3ADC2">peer-reviewed</text>
-<text class="mono" x="994.0" y="124" font-size="13" fill="#6B7590">papers in 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Key results: 96% SKU accuracy, AUC 0.973, 3.2 ms per request, +23.8 mmAP, 4 papers in 2026">
+<style>@font-face{font-family:Hand;font-weight:700;src:url(data:font/woff2;base64,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) format('woff2')}.draw{stroke-dasharray:1 1;animation:draw1 2.6s cubic-bezier(.65,.05,.35,1)}.d1{animation-name:draw1}@keyframes draw1{0%,0%{stroke-dashoffset:1}50%,100%{stroke-dashoffset:0}}.d2{animation-name:draw2}@keyframes draw2{0%,12%{stroke-dashoffset:1}62%,100%{stroke-dashoffset:0}}.d3{animation-name:draw3}@keyframes draw3{0%,24%{stroke-dashoffset:1}74%,100%{stroke-dashoffset:0}}.d4{animation-name:draw4}@keyframes draw4{0%,36%{stroke-dashoffset:1}86%,100%{stroke-dashoffset:0}}.d5{animation-name:draw5}@keyframes draw5{0%,48%{stroke-dashoffset:1}98%,100%{stroke-dashoffset:0}}.d6{animation-name:draw6}@keyframes draw6{0%,60%{stroke-dashoffset:1}100%,100%{stroke-dashoffset:0}}.wig{transform-box:fill-box;transform-origin:center;animation:wig 2.8s ease-in-out infinite}@keyframes wig{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(8deg)}}.blink{animation:blink 2.4s ease-in-out infinite}@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs></defs>
+<pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ECE6D8"/></pattern><rect x="4" y="4" width="1192" height="142" rx="10" fill="#FBF8F1"/><rect x="4" y="4" width="1192" height="142" rx="10" fill="url(#grid)"/><path d="M5.3 5.9Q601.5 5.9 1197.8 6.6M4.7 6.0Q600.1 7.5 1195.5 6.0M1193.9 3.7Q1195.7 74.1 1194.4 144.6M1193.9 4.9Q1192.5 74.9 1193.8 144.9M1196.9 144.1Q600.8 144.5 4.7 143.8M1195.9 144.1Q599.7 144.8 3.5 144.2M5.3 146.7Q4.5 75.9 6.1 5.0M5.4 144.7Q5.6 74.9 6.0 5.2" fill="none" stroke="#1F3D2B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="40.0" y="78.0" font-family="Hand,'Segoe Print','Bradley Hand',cursive" font-weight="700" font-size="58" fill="#1F3D2B" text-anchor="start">96%</text>
+<path d="M42.0 89.5C46.6 89.5 60.6 89.9 69.8 89.4C79.1 89.0 88.4 87.0 97.7 86.6C107.0 86.1 120.9 86.7 125.5 86.7" fill="none" stroke="#E8743B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" class="draw d1"/>
+<text x="40.0" y="110.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="14" fill="#1F3D2B" text-anchor="start">SKU accuracy</text>
+<text x="40.0" y="128.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="400" font-size="13" fill="#56665B" text-anchor="start">91 product classes</text>
+<path d="M248.5 29.3Q248.7 75.3 248.2 121.4" fill="none" stroke="#A7B3A9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="270.0" y="78.0" font-family="Hand,'Segoe Print','Bradley Hand',cursive" font-weight="700" font-size="58" fill="#1F3D2B" text-anchor="start">0.973</text>
+<path d="M272.0 87.7C278.2 87.8 296.7 88.4 309.0 88.7C321.3 89.0 333.6 89.5 346.0 89.6C358.3 89.7 376.8 89.5 383.0 89.4" fill="none" stroke="#E8743B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" class="draw d2"/>
+<text x="270.0" y="110.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="14" fill="#1F3D2B" text-anchor="start">AUC</text>
+<text x="270.0" y="128.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="400" font-size="13" fill="#56665B" text-anchor="start">pneumonia detection</text>
+<path d="M477.9 30.1Q476.0 75.5 477.9 120.9" fill="none" stroke="#A7B3A9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="500.0" y="78.0" font-family="Hand,'Segoe Print','Bradley Hand',cursive" font-weight="700" font-size="58" fill="#1F3D2B" text-anchor="start">3.2 ms</text>
+<path d="M502.0 88.1C509.1 88.1 530.2 88.3 544.3 88.2C558.5 88.0 572.6 87.4 586.7 87.2C600.8 86.9 622.0 86.6 629.0 86.5" fill="none" stroke="#E8743B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" class="draw d3"/>
+<text x="500.0" y="110.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="14" fill="#1F3D2B" text-anchor="start">per request</text>
+<text x="500.0" y="128.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="400" font-size="13" fill="#56665B" text-anchor="start">on AWS</text>
+<path d="M707.3 31.2Q706.1 77.5 707.4 123.7" fill="none" stroke="#A7B3A9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="730.0" y="78.0" font-family="Hand,'Segoe Print','Bradley Hand',cursive" font-weight="700" font-size="58" fill="#1F3D2B" text-anchor="start">+23.8</text>
+<path d="M732.0 89.3C738.2 89.2 756.8 88.9 769.2 88.8C781.6 88.8 794.0 89.1 806.4 88.9C818.8 88.7 837.4 87.8 843.7 87.5" fill="none" stroke="#E8743B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" class="draw d4"/>
+<text x="730.0" y="110.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="14" fill="#1F3D2B" text-anchor="start">mmAP over</text>
+<text x="730.0" y="128.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="400" font-size="13" fill="#56665B" text-anchor="start">Cascade R-CNN</text>
+<path d="M938.9 31.9Q936.3 76.9 937.9 121.8" fill="none" stroke="#A7B3A9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="960.0" y="78.0" font-family="Hand,'Segoe Print','Bradley Hand',cursive" font-weight="700" font-size="58" fill="#1F3D2B" text-anchor="start">4</text>
+<path d="M962.0 88.0C963.2 88.2 966.9 89.1 969.4 89.1C971.8 89.0 974.3 87.5 976.7 87.5C979.2 87.6 982.9 88.9 984.1 89.2" fill="none" stroke="#E8743B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" class="draw d5"/>
+<text x="960.0" y="110.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="14" fill="#1F3D2B" text-anchor="start">peer-reviewed</text>
+<text x="960.0" y="128.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="400" font-size="13" fill="#56665B" text-anchor="start">papers in 2026</text>
 </svg>
