@@ -1,128 +1,76 @@
-<div align="center">
+<img src="assets/header.svg" width="100%" alt="Kazi Md. Rakibul Hassan — AI/ML Engineer, computer vision and medical imaging" />
 
-# Kazi Md. Rakibul Hassan
+<img src="assets/metrics.svg" width="100%" alt="96% SKU accuracy · AUC 0.973 · 3.2 ms per request · +23.8 mmAP · 4 papers in 2026" />
 
-### AI/ML Engineer · Computer Vision · Medical Imaging Research
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Taking+ML+from+research+to+production;Computer+Vision+%7C+Medical+Imaging+%7C+LLMs;3+peer-reviewed+papers+in+2026;PyTorch+%E2%86%92+ONNX+%E2%86%92+FastAPI+%E2%86%92+Docker+%E2%86%92+AWS" alt="Typing SVG" />
+I build computer vision systems and take them all the way to production. I've detected products on retail shelves, found pneumonia in chest X-rays and spotted waste in rivers. My rule is that a model isn't done until it holds up on data it has never seen, and until someone can actually use it.
 
-<a href="https://kazrkb.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-<a href="https://linkedin.com/in/kazimdrakibulhassan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://huggingface.co/kazrkb"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-<a href="mailto:kazrkb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+**Right now:** wrapping up an ML traineeship at City Group and open to **AI/ML engineer** roles.
 
-<img src="https://komarev.com/ghpvc/?username=kazrkb&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views" />
+<br/>
 
-</div>
+## Experience
 
----
+<img src="assets/experience-fringecore.svg" width="100%" alt="Machine Learning Trainee at FringeCore (City Group): two-stage RF-DETR + SwinV2 pipeline, 96% accuracy on 91 SKUs, precision raised from 60% to 75%, led 5 annotators" />
 
-## About me
+<img src="assets/experience-research.svg" width="100%" alt="Undergraduate Research Assistant at CCDS–MIRA Wing, IUB: led a 3-member team on 2 of 4 papers" />
 
-I build machine learning systems end to end, from the research question to a model serving real requests. My work centres on **computer vision and medical imaging**: chest X-rays, CT scans (DICOM) and wearable sensor data.
+<br/>
 
-- 🔬 **3 peer-reviewed papers** in 2026 (ICEFronT, FICTA, ECCT) on computer vision, medical AI and predictive modelling
-- 🏥 Former **Undergraduate Research Assistant** at the CCDS–MIRA Wing, Independent University, Bangladesh
-- 🏭 **Machine Learning Trainee** at FringeCore (City Group): image classification on real-world product data
-- 🚀 I ship what I train: **PyTorch → ONNX → FastAPI → Docker → AWS**
-- 🤖 Working with **LLM applications, RAG pipelines** and AI coding agents (Claude Code, Codex)
-- 🎓 B.Sc. in Computer Science, Independent University, Bangladesh (2026)
+## Selected work
 
-```python
-class AIEngineer:
-    name      = "Kazi Md. Rakibul Hassan"
-    focus     = ["Computer Vision", "Medical Imaging", "LLM Applications"]
-    stack     = ["PyTorch", "YOLO", "ViT", "FastAPI", "Docker", "AWS"]
-    principle = "A model isn't done until it's validated on data it has never seen."
-```
+<p>
+  <a href="https://kazrkb.github.io/portfolio/project.html?id=nodule"><img src="assets/project-pneumovision.svg" width="49%" alt="PneumoVision" /></a>
+  <a href="https://kazrkb.github.io/portfolio/project.html?id=river-waste"><img src="assets/project-yolo26m-cw.svg" width="49%" alt="YOLO26m-CW" /></a>
+  <a href="https://kazrkb.github.io/portfolio/"><img src="assets/project-zero-shot.svg" width="49%" alt="Zero-shot medical diagnosis" /></a>
+  <a href="https://huggingface.co/spaces/kazrkb/diabetes-prediction"><img src="assets/project-risk-service.svg" width="49%" alt="Diabetes risk service" /></a>
+</p>
 
----
+<img src="assets/pipeline.svg" width="100%" alt="How I ship a model: Data → Label → Train → Validate → Explain → Ship" />
 
-## Featured work
-
-| Project | What it does | Results |
-|---|---|---|
-| 🫁 **[PneumoVision](https://kazrkb.github.io/portfolio/)** | Hybrid CNN–ViT pneumonia detector on chest X-rays, served on AWS (EC2 Auto Scaling, load balancer, VPC, S3) with CLAHE preprocessing, ONNX inference and Grad-CAM explanations | **AUC 0.973** · sensitivity 0.949 · **3.2 ms** per image |
-| 🌊 **[YOLO26m-CW](https://kazrkb.github.io/portfolio/project.html?id=river-waste)** | Custom YOLO detector with Coordinate Attention and water-specific augmentation for riverine waste monitoring | mmAP **0.672 vs 0.434** for Cascade R-CNN · mAP50 > 0.90 across 5 splits · 3 external datasets |
-| 🩺 **[Diabetes Risk Prediction](https://huggingface.co/spaces/kazrkb/diabetes-prediction)** | Benchmarked six classifiers with stratified 5-fold CV; SHAP and ablation cut inputs from nine to one; deployed with Docker, FastAPI and Streamlit | **F1 0.981** · live on Hugging Face Spaces |
-| 🔍 **[Lung Nodule Detection](https://kazrkb.github.io/portfolio/project.html?id=nodule)** | PyTorch detection pipeline for lung nodules in chest CT scans (DICOM) from LIDC-IDRI | Large-scale 3D thoracic CT pipeline |
-| ⌚ **Device-Independent HAR** | Human activity recognition from accelerometer and gyroscope streams that generalises across wearable devices | Published at ECCT 2026 |
-
----
+<br/>
 
 ## Publications
 
-1. **Establishing Machine Learning Benchmarks for Type-2 Diabetes Mellitus Prediction in Bangladesh: Feature Ablation and Fairness Analysis** — *ICEFronT 2026*
-2. **YOLO26m-CW: A Water-Augmented Spatial Attention Framework for Robust Riverine Waste Monitoring** — *FICTA 2026*
-3. **Device-Independent Human Activity Recognition across Wearable Sensors in an IoT Framework** — *ECCT 2026*
+| Venue | Paper |
+|:--|:--|
+| **MIET 2026** | A Modular Zero-Shot Framework for Multi-Domain Medical Diagnosis via MobileSAM and BiomedCLIP |
+| **FICTA 2026** | YOLO26m-CW: A Water-Augmented Spatial Attention Framework for Robust Riverine Waste Monitoring |
+| **ICEFronT 2026** | Establishing Machine Learning Benchmarks for Type-2 Diabetes Mellitus Prediction in Bangladesh |
+| **ECCT 2026** | Device-Independent Human Activity Recognition across Wearable Sensors in an IoT Framework |
 
----
+<details>
+<summary><b>More projects</b></summary>
+<br/>
 
-## Tech stack
+- **Lung nodule detection** — PyTorch detection pipeline on 3D chest CT scans (DICOM) from LIDC-IDRI
+- **Device-independent HAR** — activity recognition from accelerometer and gyroscope streams that generalises across wearables
+- **[Customer churn pipeline](https://kazrkb.github.io/portfolio/project.html?id=bd-churn)** — Python ETL of 6,418 records into MySQL, four churn models, Power BI reporting
 
-**ML & Computer Vision**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vision_Transformers-6E40C9?style=flat-square" />
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" />
-  <img src="https://img.shields.io/badge/SHAP-FF0051?style=flat-square" />
+</details>
+
+<br/>
+
+## Toolbox
+
+**Modeling** &nbsp; PyTorch · TensorFlow · scikit-learn · XGBoost · OpenCV · YOLO · RF-DETR · SwinV2 · ViT<br/>
+**Foundation models & LLMs** &nbsp; LangChain · RAG · BiomedCLIP · MobileSAM · Claude Code · Codex<br/>
+**Shipping** &nbsp; FastAPI · Flask · Docker · ONNX · AWS (EC2, S3, VPC, ALB, Auto Scaling) · Streamlit · Hugging Face Spaces<br/>
+**Data** &nbsp; Python · SQL (PostgreSQL, MySQL) · pandas · NumPy · CVAT · Linux · Git
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazrkb&bg_color=0B0F1A&color=A3ADC2&title_color=F3F5FA&line=FF4D6D&point=FFB020&area=true&area_color=FF7A1A&hide_border=true&radius=20&custom_title=Contributions" width="100%" alt="Contribution graph" />
+
+<br/>
+
+<p align="center">
+  <a href="https://kazrkb.github.io/portfolio/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/kazimdrakibulhassan"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://huggingface.co/kazrkb"><b>Hugging Face</b></a> &nbsp;·&nbsp;
+  <a href="mailto:kazrkb@gmail.com"><b>kazrkb@gmail.com</b></a>
+  <br/><sub>Dhaka, Bangladesh · B.Sc. Computer Science, Independent University, Bangladesh</sub>
 </p>
 
-**LLMs & AI Tools**
-<p>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
-**Deployment & MLOps**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_(EC2_·_S3_·_VPC)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
-**Languages & Data**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-**Certifications:** AI & ML with Python (CUET) · Advanced SQL (Kaggle) · Google Data Analytics · CCNA (Cisco)
-
----
-
-## GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazrkb&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazrkb&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazrkb&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazrkb&theme=github-compact&hide_border=true" width="95%" alt="Contribution graph" />
-</div>
-
----
-
-<div align="center">
-
-### Let's talk
-
-Open to **AI/ML Engineer** and **Computer Vision** roles, research collaborations and medical-AI projects.<br/>
-📍 Dhaka, Bangladesh · 📫 [kazrkb@gmail.com](mailto:kazrkb@gmail.com)
-
-</div>
-
-<!-- Kazi Md. Rakibul Hassan, kazrkb, AI Engineer, Machine Learning Engineer, Computer Vision, Medical Imaging, Deep Learning, PyTorch, YOLO, Vision Transformer, LLM, RAG, MLOps, FastAPI, Docker, AWS, Independent University Bangladesh -->
+<!-- Kazi Md. Rakibul Hassan, kazrkb, AI Engineer, Machine Learning Engineer, Computer Vision, Medical Imaging, Deep Learning, PyTorch, YOLO, RF-DETR, Vision Transformer, BiomedCLIP, LLM, RAG, MLOps, FastAPI, Docker, AWS, Bangladesh -->
