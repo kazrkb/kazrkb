@@ -6,7 +6,7 @@
 
 I build computer vision systems and take them all the way to production. I've detected products on retail shelves, found pneumonia in chest X-rays and spotted waste in rivers. My rule is that a model isn't done until it holds up on data it has never seen, and until someone can actually use it.
 
-**Right now:** wrapping up an ML traineeship at City Group and open to **AI/ML engineer** roles.
+**Right now:** open to **AI/ML engineer** roles, fresh off an ML traineeship at FringeCore (City Group).
 
 <br/>
 
