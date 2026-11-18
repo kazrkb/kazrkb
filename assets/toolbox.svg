@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 374" width="1200" height="374" role="img" aria-label="Toolbox. MODELING: PyTorch, TensorFlow, scikit-learn, XGBoost, OpenCV, YOLO, RF-DETR, SwinV2, ViT. FOUNDATION / LLM: BiomedCLIP, MobileSAM, LangChain, RAG, Claude Code, Codex. SHIPPING: FastAPI, Docker, ONNX, AWS · EC2 S3 VPC ALB, Flask, Streamlit, HF Spaces. DATA: Python, PostgreSQL, MySQL, pandas, NumPy, CVAT, Linux, Git">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+.p1{animation-delay:.5s}.p2{animation-delay:1s}.p3{animation-delay:1.5s}
+.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.sweep{animation:sweep 6s ease-in-out infinite}
+@keyframes sweep{0%{transform:translateX(-400px)}60%,100%{transform:translateX(1400px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
+<linearGradient id="glint" x1="0" x2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset=".5" stop-color="#FF7A1A" stop-opacity=".10"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity=".14"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
+</defs>
+<rect width="1200" height="374" rx="20" fill="#0B0F1A"/>
+<rect width="1200" height="374" rx="20" fill="url(#dots)" opacity=".55"/>
+
+<rect x=".5" y=".5" width="1199" height="373" rx="19.5" fill="none" stroke="#1E2638"/>
+<text class="mono" x="48" y="58" font-size="13" fill="#5EEAD4" letter-spacing="1.5">FROM NOTEBOOK TO PRODUCTION</text>
+<rect x="1132" y="50" width="20" height="3" rx="1.5" fill="url(#hot)"/>
+<text class="mono" x="48" y="113" font-size="12.5" fill="#A3ADC2" letter-spacing="1.2">MODELING</text>
+<rect x="250" y="92" width="97" height="32" rx="9" fill="#FF7A1A" fill-opacity=".07" stroke="#FF7A1A" stroke-opacity=".45"/>
+<circle cx="266" cy="108" r="3" fill="url(#hot)"/>
+<text class="mono" x="277" y="113" font-size="13.5" fill="#F3F5FA">PyTorch</text>
+<rect x="356" y="92" width="107" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="369" y="113" font-size="13.5" fill="#C9D3E6">TensorFlow</text>
+<rect x="472" y="92" width="123" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="485" y="113" font-size="13.5" fill="#C9D3E6">scikit-learn</text>
+<rect x="604" y="92" width="83" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="617" y="113" font-size="13.5" fill="#C9D3E6">XGBoost</text>
+<rect x="696" y="92" width="75" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="709" y="113" font-size="13.5" fill="#C9D3E6">OpenCV</text>
+<rect x="779" y="92" width="72" height="32" rx="9" fill="#FF7A1A" fill-opacity=".07" stroke="#FF7A1A" stroke-opacity=".45"/>
+<circle cx="795" cy="108" r="3" fill="url(#hot)"/>
+<text class="mono" x="806" y="113" font-size="13.5" fill="#F3F5FA">YOLO</text>
+<rect x="861" y="92" width="97" height="32" rx="9" fill="#FF7A1A" fill-opacity=".07" stroke="#FF7A1A" stroke-opacity=".45"/>
+<circle cx="877" cy="108" r="3" fill="url(#hot)"/>
+<text class="mono" x="888" y="113" font-size="13.5" fill="#F3F5FA">RF-DETR</text>
+<rect x="966" y="92" width="75" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="979" y="113" font-size="13.5" fill="#C9D3E6">SwinV2</text>
+<rect x="1050" y="92" width="50" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="1063" y="113" font-size="13.5" fill="#C9D3E6">ViT</text>
+<line x1="48" y1="140" x2="1152" y2="140" stroke="#161D2C"/>
+<text class="mono" x="48" y="175" font-size="12.5" fill="#A3ADC2" letter-spacing="1.2">FOUNDATION / LLM</text>
+<rect x="250" y="154" width="121" height="32" rx="9" fill="#FF7A1A" fill-opacity=".07" stroke="#FF7A1A" stroke-opacity=".45"/>
+<circle cx="266" cy="170" r="3" fill="url(#hot)"/>
+<text class="mono" x="277" y="175" font-size="13.5" fill="#F3F5FA">BiomedCLIP</text>
+<rect x="380" y="154" width="99" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="393" y="175" font-size="13.5" fill="#C9D3E6">MobileSAM</text>
+<rect x="488" y="154" width="99" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="501" y="175" font-size="13.5" fill="#C9D3E6">LangChain</text>
+<rect x="596" y="154" width="50" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="609" y="175" font-size="13.5" fill="#C9D3E6">RAG</text>
+<rect x="655" y="154" width="115" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="668" y="175" font-size="13.5" fill="#C9D3E6">Claude Code</text>
+<rect x="779" y="154" width="66" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="792" y="175" font-size="13.5" fill="#C9D3E6">Codex</text>
+<line x1="48" y1="202" x2="1152" y2="202" stroke="#161D2C"/>
+<text class="mono" x="48" y="237" font-size="12.5" fill="#A3ADC2" letter-spacing="1.2">SHIPPING</text>
+<rect x="250" y="216" width="97" height="32" rx="9" fill="#FF7A1A" fill-opacity=".07" stroke="#FF7A1A" stroke-opacity=".45"/>
+<circle cx="266" cy="232" r="3" fill="url(#hot)"/>
+<text class="mono" x="277" y="237" font-size="13.5" fill="#F3F5FA">FastAPI</text>
+<rect x="356" y="216" width="89" height="32" rx="9" fill="#FF7A1A" fill-opacity=".07" stroke="#FF7A1A" stroke-opacity=".45"/>
+<circle cx="372" cy="232" r="3" fill="url(#hot)"/>
+<text class="mono" x="383" y="237" font-size="13.5" fill="#F3F5FA">Docker</text>
+<rect x="453" y="216" width="58" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="466" y="237" font-size="13.5" fill="#C9D3E6">ONNX</text>
+<rect x="521" y="216" width="188" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="534" y="237" font-size="13.5" fill="#C9D3E6">AWS · EC2 S3 VPC ALB</text>
+<rect x="718" y="216" width="66" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="731" y="237" font-size="13.5" fill="#C9D3E6">Flask</text>
+<rect x="793" y="216" width="99" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="806" y="237" font-size="13.5" fill="#C9D3E6">Streamlit</text>
+<rect x="901" y="216" width="99" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="914" y="237" font-size="13.5" fill="#C9D3E6">HF Spaces</text>
+<line x1="48" y1="264" x2="1152" y2="264" stroke="#161D2C"/>
+<text class="mono" x="48" y="299" font-size="12.5" fill="#A3ADC2" letter-spacing="1.2">DATA</text>
+<rect x="250" y="278" width="89" height="32" rx="9" fill="#FF7A1A" fill-opacity=".07" stroke="#FF7A1A" stroke-opacity=".45"/>
+<circle cx="266" cy="294" r="3" fill="url(#hot)"/>
+<text class="mono" x="277" y="299" font-size="13.5" fill="#F3F5FA">Python</text>
+<rect x="348" y="278" width="107" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="361" y="299" font-size="13.5" fill="#C9D3E6">PostgreSQL</text>
+<rect x="464" y="278" width="66" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="477" y="299" font-size="13.5" fill="#C9D3E6">MySQL</text>
+<rect x="539" y="278" width="75" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="552" y="299" font-size="13.5" fill="#C9D3E6">pandas</text>
+<rect x="623" y="278" width="66" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="636" y="299" font-size="13.5" fill="#C9D3E6">NumPy</text>
+<rect x="698" y="278" width="58" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="711" y="299" font-size="13.5" fill="#C9D3E6">CVAT</text>
+<rect x="766" y="278" width="66" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="779" y="299" font-size="13.5" fill="#C9D3E6">Linux</text>
+<rect x="841" y="278" width="50" height="32" rx="9" fill="#111727" stroke="#1E2638"/>
+<text class="mono" x="854" y="299" font-size="13.5" fill="#C9D3E6">Git</text>
+<circle cx="54" cy="342" r="3" fill="url(#hot)"/>
+<text class="mono" x="66" y="346" font-size="12" fill="#6B7590">daily drivers</text>
+</svg>

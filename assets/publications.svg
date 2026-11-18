@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 636" width="1200" height="636" role="img" aria-label="Publications: MIET 2026: A Modular Zero-Shot Framework for Multi-Domain Medical Diagnosis via MobileSAM and BiomedCLIP; FICTA 2026: YOLO26m-CW: A Water-Augmented Spatial Attention Framework for Robust Riverine Waste Monitoring; ICEFronT 2026: Establishing Machine Learning Benchmarks for Type-2 Diabetes Mellitus Prediction in Bangladesh; ECCT 2026: Device-Independent Human Activity Recognition across Wearable Sensors in an IoT Framework">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+.p1{animation-delay:.5s}.p2{animation-delay:1s}.p3{animation-delay:1.5s}
+.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.sweep{animation:sweep 6s ease-in-out infinite}
+@keyframes sweep{0%{transform:translateX(-400px)}60%,100%{transform:translateX(1400px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
+<linearGradient id="glint" x1="0" x2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset=".5" stop-color="#FF7A1A" stop-opacity=".10"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity=".14"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
+</defs>
+<rect width="1200" height="636" rx="20" fill="#0B0F1A"/>
+<rect width="1200" height="636" rx="20" fill="url(#dots)" opacity=".55"/>
+
+<rect x=".5" y=".5" width="1199" height="635" rx="19.5" fill="none" stroke="#1E2638"/>
+<text class="mono" x="48" y="58" font-size="13" fill="#5EEAD4" letter-spacing="1.5">PUBLICATIONS  ·  4 PEER-REVIEWED  ·  2026</text>
+<rect x="1132" y="50" width="20" height="3" rx="1.5" fill="url(#hot)"/>
+<line x1="66" y1="120" x2="66" y2="510" stroke="#1E2638" stroke-width="2"/>
+<line class="flow" x1="66" y1="120" x2="66" y2="510" stroke="#FF7A1A" stroke-opacity=".5" stroke-width="2"/>
+<circle cx="66" cy="120" r="9" fill="#0B0F1A" stroke="#1E2638" stroke-width="2"/>
+<circle class="pulse p0" cx="66" cy="120" r="4.5" fill="url(#hot)"/>
+<rect x="100" y="107" width="92" height="26" rx="7" fill="#FF7A1A" fill-opacity=".08" stroke="#FF7A1A" stroke-opacity=".35"/>
+<text class="mono" x="146" y="125" font-size="13" fill="#FFB020" text-anchor="middle" letter-spacing=".5">MIET 2026</text>
+<text class="mono" x="1152" y="125" font-size="12" fill="#6B7590" text-anchor="end">01</text>
+<text class="sans" x="100" y="164" font-size="19" fill="#F3F5FA" font-weight="600">A Modular Zero-Shot Framework for Multi-Domain Medical Diagnosis via MobileSAM and BiomedCLIP</text>
+<text class="mono" x="100" y="192" font-size="12.5" fill="#6B7590">medical imaging · zero-shot · foundation models</text>
+<circle cx="66" cy="250" r="9" fill="#0B0F1A" stroke="#1E2638" stroke-width="2"/>
+<circle class="pulse p1" cx="66" cy="250" r="4.5" fill="url(#hot)"/>
+<rect x="100" y="237" width="100" height="26" rx="7" fill="#FF7A1A" fill-opacity=".08" stroke="#FF7A1A" stroke-opacity=".35"/>
+<text class="mono" x="150" y="255" font-size="13" fill="#FFB020" text-anchor="middle" letter-spacing=".5">FICTA 2026</text>
+<text class="mono" x="1152" y="255" font-size="12" fill="#6B7590" text-anchor="end">02</text>
+<text class="sans" x="100" y="294" font-size="19" fill="#F3F5FA" font-weight="600">YOLO26m-CW: A Water-Augmented Spatial Attention Framework for Robust Riverine Waste Monitoring</text>
+<text class="mono" x="100" y="322" font-size="12.5" fill="#6B7590">object detection · attention · environment</text>
+<circle cx="66" cy="380" r="9" fill="#0B0F1A" stroke="#1E2638" stroke-width="2"/>
+<circle class="pulse p2" cx="66" cy="380" r="4.5" fill="url(#hot)"/>
+<rect x="100" y="367" width="123" height="26" rx="7" fill="#FF7A1A" fill-opacity=".08" stroke="#FF7A1A" stroke-opacity=".35"/>
+<text class="mono" x="162" y="385" font-size="13" fill="#FFB020" text-anchor="middle" letter-spacing=".5">ICEFronT 2026</text>
+<text class="mono" x="1152" y="385" font-size="12" fill="#6B7590" text-anchor="end">03</text>
+<text class="sans" x="100" y="424" font-size="19" fill="#F3F5FA" font-weight="600">Establishing Machine Learning Benchmarks for Type-2 Diabetes Mellitus Prediction in Bangladesh</text>
+<text class="mono" x="100" y="452" font-size="12.5" fill="#6B7590">tabular ML · benchmarking · public health</text>
+<circle cx="66" cy="510" r="9" fill="#0B0F1A" stroke="#1E2638" stroke-width="2"/>
+<circle class="pulse p3" cx="66" cy="510" r="4.5" fill="url(#hot)"/>
+<rect x="100" y="497" width="92" height="26" rx="7" fill="#FF7A1A" fill-opacity=".08" stroke="#FF7A1A" stroke-opacity=".35"/>
+<text class="mono" x="146" y="515" font-size="13" fill="#FFB020" text-anchor="middle" letter-spacing=".5">ECCT 2026</text>
+<text class="mono" x="1152" y="515" font-size="12" fill="#6B7590" text-anchor="end">04</text>
+<text class="sans" x="100" y="554" font-size="19" fill="#F3F5FA" font-weight="600">Device-Independent Human Activity Recognition across Wearable Sensors in an IoT Framework</text>
+<text class="mono" x="100" y="582" font-size="12.5" fill="#6B7590">time series · wearables · IoT</text>
+</svg>

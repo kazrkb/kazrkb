@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Open to AI/ML engineer roles. Dhaka, Bangladesh.">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+.p1{animation-delay:.5s}.p2{animation-delay:1s}.p3{animation-delay:1.5s}
+.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.sweep{animation:sweep 6s ease-in-out infinite}
+@keyframes sweep{0%{transform:translateX(-400px)}60%,100%{transform:translateX(1400px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
+<linearGradient id="glint" x1="0" x2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset=".5" stop-color="#FF7A1A" stop-opacity=".10"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#FF7A1A" stop-opacity=".14"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
+</defs>
+<rect width="1200" height="260" rx="20" fill="#0B0F1A"/>
+<rect width="1200" height="260" rx="20" fill="url(#dots)" opacity=".55"/>
+<clipPath id="round"><rect width="1200" height="260" rx="20"/></clipPath><g clip-path="url(#round)"><ellipse cx="600" cy="0" rx="620" ry="240" fill="url(#glow)"/><rect class="sweep" x="0" y="0" width="360" height="260" fill="url(#glint)"/></g>
+<rect x=".5" y=".5" width="1199" height="259" rx="19.5" fill="none" stroke="#1E2638"/>
+<text class="mono" x="600" y="70" font-size="13" fill="#5EEAD4" letter-spacing="1.5" text-anchor="middle">● OPEN TO AI/ML ENGINEER ROLES</text>
+<text class="sans" x="600" y="122" font-size="34" fill="#F3F5FA" font-weight="700" letter-spacing="-.8" text-anchor="middle">Have a model that needs to survive the real world?</text>
+<text class="sans" x="600" y="158" font-size="18" fill="#A3ADC2" text-anchor="middle">Computer vision, medical imaging and the pipeline that ships it. Let's talk.</text>
+<rect x="560" y="186" width="80" height="3" rx="1.5" fill="url(#hot)"/>
+<text class="mono" x="600" y="226" font-size="12.5" fill="#6B7590" text-anchor="middle">Dhaka, Bangladesh  ·  B.Sc. Computer Science, Independent University, Bangladesh</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 48" width="126" height="48" role="img" aria-label="LinkedIn">
+<style>.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}</style>
+<defs><linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient></defs>
+<rect width="126" height="48" rx="14" fill="#0B0F1A"/><rect x=".5" y=".5" width="125" height="47" rx="13.5" fill="none" stroke="#2A3449"/>
+<text class="mono" x="20" y="29.5" font-size="14.5" fill="#F3F5FA" font-weight="500">LinkedIn</text>
+<text class="mono" x="106" y="29.5" font-size="14.5" fill="#F3F5FA" text-anchor="end" opacity="0.55">↗</text>
+</svg>

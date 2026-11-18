@@ -29,17 +29,6 @@ I build computer vision systems and take them all the way to production. I've de
 
 <img src="assets/pipeline.svg" width="100%" alt="How I ship a model: Data → Label → Train → Validate → Explain → Ship" />
 
-<br/>
-
-## Publications
-
-| Venue | Paper |
-|:--|:--|
-| **MIET 2026** | A Modular Zero-Shot Framework for Multi-Domain Medical Diagnosis via MobileSAM and BiomedCLIP |
-| **FICTA 2026** | YOLO26m-CW: A Water-Augmented Spatial Attention Framework for Robust Riverine Waste Monitoring |
-| **ICEFronT 2026** | Establishing Machine Learning Benchmarks for Type-2 Diabetes Mellitus Prediction in Bangladesh |
-| **ECCT 2026** | Device-Independent Human Activity Recognition across Wearable Sensors in an IoT Framework |
-
 <details>
 <summary><b>More projects</b></summary>
 <br/>
@@ -52,25 +41,25 @@ I build computer vision systems and take them all the way to production. I've de
 
 <br/>
 
+## Publications
+
+<img src="assets/publications.svg" width="100%" alt="Publications: MIET 2026, A Modular Zero-Shot Framework for Multi-Domain Medical Diagnosis via MobileSAM and BiomedCLIP. FICTA 2026, YOLO26m-CW: A Water-Augmented Spatial Attention Framework for Robust Riverine Waste Monitoring. ICEFronT 2026, Establishing Machine Learning Benchmarks for Type-2 Diabetes Mellitus Prediction in Bangladesh. ECCT 2026, Device-Independent Human Activity Recognition across Wearable Sensors in an IoT Framework." />
+
+<br/>
+
 ## Toolbox
 
-**Modeling** &nbsp; PyTorch · TensorFlow · scikit-learn · XGBoost · OpenCV · YOLO · RF-DETR · SwinV2 · ViT<br/>
-**Foundation models & LLMs** &nbsp; LangChain · RAG · BiomedCLIP · MobileSAM · Claude Code · Codex<br/>
-**Shipping** &nbsp; FastAPI · Flask · Docker · ONNX · AWS (EC2, S3, VPC, ALB, Auto Scaling) · Streamlit · Hugging Face Spaces<br/>
-**Data** &nbsp; Python · SQL (PostgreSQL, MySQL) · pandas · NumPy · CVAT · Linux · Git
+<img src="assets/toolbox.svg" width="100%" alt="Toolbox. Modeling: PyTorch, TensorFlow, scikit-learn, XGBoost, OpenCV, YOLO, RF-DETR, SwinV2, ViT. Foundation models and LLMs: BiomedCLIP, MobileSAM, LangChain, RAG, Claude Code, Codex. Shipping: FastAPI, Docker, ONNX, AWS (EC2, S3, VPC, ALB), Flask, Streamlit, Hugging Face Spaces. Data: Python, PostgreSQL, MySQL, pandas, NumPy, CVAT, Linux, Git." />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazrkb&bg_color=0B0F1A&color=A3ADC2&title_color=F3F5FA&line=FF4D6D&point=FFB020&area=true&area_color=FF7A1A&hide_border=true&radius=20&custom_title=Contributions" width="100%" alt="Contribution graph" />
-
-<br/>
+<img src="assets/contact.svg" width="100%" alt="Open to AI/ML engineer roles. Dhaka, Bangladesh. B.Sc. Computer Science, Independent University, Bangladesh." />
 
 <p align="center">
-  <a href="https://kazrkb.github.io/portfolio/"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/kazimdrakibulhassan"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://huggingface.co/kazrkb"><b>Hugging Face</b></a> &nbsp;·&nbsp;
-  <a href="mailto:kazrkb@gmail.com"><b>kazrkb@gmail.com</b></a>
-  <br/><sub>Dhaka, Bangladesh · B.Sc. Computer Science, Independent University, Bangladesh</sub>
+  <a href="https://kazrkb.github.io/portfolio/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/kazimdrakibulhassan"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://huggingface.co/kazrkb"><img src="assets/btn-huggingface.svg" height="44" alt="Hugging Face" /></a>&nbsp;
+  <a href="mailto:kazrkb@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email kazrkb@gmail.com" /></a>
 </p>
 
 <!-- Kazi Md. Rakibul Hassan, kazrkb, AI Engineer, Machine Learning Engineer, Computer Vision, Medical Imaging, Deep Learning, PyTorch, YOLO, RF-DETR, Vision Transformer, BiomedCLIP, LLM, RAG, MLOps, FastAPI, Docker, AWS, Bangladesh -->

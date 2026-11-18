@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 48" width="135" height="48" role="img" aria-label="Portfolio">
+<style>.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}</style>
+<defs><linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient></defs>
+<rect width="135" height="48" rx="14" fill="url(#hot)"/>
+<text class="mono" x="20" y="29.5" font-size="14.5" fill="#0B0F1A" font-weight="700">Portfolio</text>
+<text class="mono" x="115" y="29.5" font-size="14.5" fill="#0B0F1A" text-anchor="end" opacity="1">↗</text>
+</svg>
