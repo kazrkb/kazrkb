@@ -6,7 +6,7 @@
 
 I build computer vision systems and take them all the way to production. I've detected products on retail shelves, found pneumonia in chest X-rays and spotted waste in rivers. My rule is that a model isn't done until it holds up on data it has never seen, and until someone can actually use it.
 
-**Right now:** open to **AI/ML engineer** roles, fresh off an ML traineeship at FringeCore (City Group).
+**Right now:** research assistant at CCDS–MIRA (IUB) with 2 journal papers in progress, fresh off an ML traineeship at FringeCore (City Group), and open to **AI/ML engineer** roles.
 
 <br/>
 
@@ -14,7 +14,7 @@ I build computer vision systems and take them all the way to production. I've de
 
 <img src="assets/experience-fringecore.svg" width="100%" alt="Machine Learning Trainee at FringeCore (City Group): two-stage RF-DETR + SwinV2 pipeline, 96% accuracy on 91 SKUs, precision raised from 60% to 75%, led 5 annotators" />
 
-<img src="assets/experience-research.svg" width="100%" alt="Undergraduate Research Assistant at CCDS–MIRA Wing, IUB: led a 3-member team on 2 of 4 papers" />
+<img src="assets/experience-research.svg" width="100%" alt="Undergraduate Research Assistant at CCDS–MIRA Wing, IUB, Nov 2025 to present: led a 3-member team on 2 of 4 papers, 2 journal papers in progress" />
 
 <br/>
 
