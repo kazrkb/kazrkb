@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" role="img" aria-label="Diabetes risk prediction service, F1 0.981, live on Hugging Face">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+.p1{animation-delay:.35s}.p2{animation-delay:.7s}.p3{animation-delay:1.05s}.p4{animation-delay:1.4s}.p5{animation-delay:1.75s}
+.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.heat{transform-box:fill-box;transform-origin:center;animation:heat 3.2s ease-in-out infinite}
+@keyframes heat{0%,100%{opacity:.75;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
+.wave{animation:wave 6s linear infinite}
+@keyframes wave{to{transform:translateX(-60px)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
+<radialGradient id="cam" cx=".5" cy=".5" r=".5">
+ <stop offset="0" stop-color="#FFE08A" stop-opacity=".95"/><stop offset=".35" stop-color="#FF8A1F" stop-opacity=".75"/>
+ <stop offset=".7" stop-color="#E0245E" stop-opacity=".35"/><stop offset="1" stop-color="#E0245E" stop-opacity="0"/></radialGradient>
+<radialGradient id="lung" cx=".5" cy=".45" r=".52">
+ <stop offset="0" stop-color="#C9D3E6" stop-opacity=".18"/><stop offset=".7" stop-color="#C9D3E6" stop-opacity=".06"/>
+ <stop offset="1" stop-color="#C9D3E6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
+</defs>
+<rect width="600" height="360" rx="20" fill="#0B0F1A"/>
+<rect x=".5" y=".5" width="599" height="359" rx="19.5" fill="none" stroke="#1E2638"/>
+<text class="mono" x="36" y="54" font-size="13" fill="#FFB020" letter-spacing="1.2">MLOPS · ICEFRONT 2026</text>
+<text class="sans" x="34" y="98" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">Diabetes Risk Service</text>
+<text class="sans" x="36" y="138" font-size="16" fill="#A3ADC2">Six classifiers, stratified 5-fold CV, SHAP and ablation;</text>
+<text class="sans" x="36" y="162" font-size="16" fill="#A3ADC2">shipped in Docker behind FastAPI and Streamlit.</text>
+<line x1="36" y1="196" x2="564" y2="196" stroke="#1E2638"/>
+<text class="sans" x="36" y="248" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">0.981</text>
+<text class="mono" x="36" y="274" font-size="14" fill="#6B7590">F1 score</text>
+<text class="sans" x="216" y="248" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">6</text>
+<text class="mono" x="216" y="274" font-size="14" fill="#6B7590">models in Docker</text>
+<text class="sans" x="396" y="248" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">9 → 1</text>
+<text class="mono" x="396" y="274" font-size="14" fill="#6B7590">features</text>
+<line x1="36" y1="304" x2="564" y2="304" stroke="#1E2638"/>
+<text class="mono" x="36" y="334" font-size="13" fill="#6B7590">Feb 2026  ·  Hugging Face Spaces</text>
+<text class="mono" x="564" y="334" font-size="13" fill="#5EEAD4" text-anchor="end">live demo ↗</text>
+<g><rect x="446" y="26" width="122" height="100" rx="10" fill="#05070D" stroke="#1E2638"/><rect class="pulse" x="458.0" y="47.760000000000005" width="7" height="66.24" rx="2" fill="url(#hot)"/><rect x="469.5" y="92.4" width="7" height="21.599999999999998" rx="2" fill="#2A3348"/><rect x="481.0" y="98.16" width="7" height="15.84" rx="2" fill="#2A3348"/><rect x="492.5" y="101.04" width="7" height="12.959999999999999" rx="2" fill="#2A3348"/><rect x="504.0" y="103.92" width="7" height="10.08" rx="2" fill="#2A3348"/><rect x="515.5" y="106.08" width="7" height="7.92" rx="2" fill="#2A3348"/><rect x="527.0" y="107.52" width="7" height="6.4799999999999995" rx="2" fill="#2A3348"/><rect x="538.5" y="108.96" width="7" height="5.04" rx="2" fill="#2A3348"/><rect x="550.0" y="110.4" width="7" height="3.5999999999999996" rx="2" fill="#2A3348"/><text class="mono" x="560" y="44" font-size="10" fill="#6B7590" text-anchor="end">SHAP</text></g>
+</svg>

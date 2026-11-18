@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Machine Learning Trainee at FringeCore: retail shelf recognition, 96% accuracy on 91 SKUs">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+.p1{animation-delay:.35s}.p2{animation-delay:.7s}.p3{animation-delay:1.05s}.p4{animation-delay:1.4s}.p5{animation-delay:1.75s}
+.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.heat{transform-box:fill-box;transform-origin:center;animation:heat 3.2s ease-in-out infinite}
+@keyframes heat{0%,100%{opacity:.75;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
+.wave{animation:wave 6s linear infinite}
+@keyframes wave{to{transform:translateX(-60px)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
+<radialGradient id="cam" cx=".5" cy=".5" r=".5">
+ <stop offset="0" stop-color="#FFE08A" stop-opacity=".95"/><stop offset=".35" stop-color="#FF8A1F" stop-opacity=".75"/>
+ <stop offset=".7" stop-color="#E0245E" stop-opacity=".35"/><stop offset="1" stop-color="#E0245E" stop-opacity="0"/></radialGradient>
+<radialGradient id="lung" cx=".5" cy=".45" r=".52">
+ <stop offset="0" stop-color="#C9D3E6" stop-opacity=".18"/><stop offset=".7" stop-color="#C9D3E6" stop-opacity=".06"/>
+ <stop offset="1" stop-color="#C9D3E6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
+</defs>
+<rect width="1200" height="400" rx="20" fill="#0B0F1A"/>
+<rect x=".5" y=".5" width="1199" height="399" rx="19.5" fill="none" stroke="#1E2638"/>
+<rect width="1200" height="400" rx="20" fill="url(#dots)" opacity=".7"/>
+<text class="mono" x="48" y="64" font-size="13" fill="#5EEAD4" letter-spacing="1.5">EXPERIENCE  ·  JUN – NOV 2026</text>
+<text class="sans" x="46" y="112" font-size="38" fill="#F3F5FA" font-weight="700" letter-spacing="-1">Machine Learning Trainee</text>
+<text class="sans" x="48" y="146" font-size="19" fill="#A3ADC2">FringeCore (City Group), Dhaka</text>
+<text class="sans" x="48" y="192" font-size="16" fill="#A3ADC2">An end-to-end retail system that tracks product</text>
+<text class="sans" x="48" y="216" font-size="16" fill="#A3ADC2">availability and stock in every shop, from shelf photos.</text>
+<text class="sans" x="48" y="284" font-size="34" fill="#F3F5FA" font-weight="700" letter-spacing="-1">96%</text>
+<text class="mono" x="48" y="308" font-size="13" fill="#6B7590">accuracy, 91 SKUs</text>
+<text class="sans" x="244" y="284" font-size="34" fill="#F3F5FA" font-weight="700" letter-spacing="-1">60→75%</text>
+<text class="mono" x="244" y="308" font-size="13" fill="#6B7590">detection precision</text>
+<text class="sans" x="440" y="284" font-size="34" fill="#F3F5FA" font-weight="700" letter-spacing="-1">5</text>
+<text class="mono" x="440" y="308" font-size="13" fill="#6B7590">annotators led</text>
+<text class="mono" x="48" y="356" font-size="13" fill="#A3ADC2">RF-DETR  ·  SwinV2  ·  FastAPI  ·  CVAT  ·  PyTorch</text>
+<rect x="690" y="36" width="470" height="328" rx="14" fill="#05070D" stroke="#1E2638"/>
+<text class="mono" x="708" y="62" font-size="12" fill="#6B7590">stage 1 · rf-detr  →  stage 2 · swinv2</text>
+<rect x="704" y="176" width="442" height="4" rx="2" fill="#2A3348"/>
+<rect x="714" y="122" width="38" height="54" rx="4" fill="#3A2F24"/>
+<rect x="719" y="134" width="28" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="760" y="130" width="30" height="46" rx="4" fill="#283246"/>
+<rect x="765" y="142" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="798" y="114" width="30" height="62" rx="4" fill="#283246"/>
+<rect x="803" y="126" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="836" y="122" width="30" height="54" rx="4" fill="#22304A"/>
+<rect x="841" y="134" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="874" y="106" width="30" height="70" rx="4" fill="#3A2F24"/>
+<rect x="879" y="118" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="912" y="122" width="30" height="54" rx="4" fill="#22304A"/>
+<rect x="917" y="134" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="950" y="130" width="44" height="46" rx="4" fill="#283246"/>
+<rect x="955" y="142" width="34" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="1002" y="122" width="30" height="54" rx="4" fill="#332436"/>
+<rect x="1007" y="134" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="1040" y="106" width="30" height="70" rx="4" fill="#22304A"/>
+<rect x="1045" y="118" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="1078" y="130" width="34" height="46" rx="4" fill="#283246"/>
+<rect x="1083" y="142" width="24" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="704" y="266" width="442" height="4" rx="2" fill="#2A3348"/>
+<rect x="714" y="204" width="34" height="62" rx="4" fill="#3A2F24"/>
+<rect x="719" y="216" width="24" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="756" y="220" width="34" height="46" rx="4" fill="#283246"/>
+<rect x="761" y="232" width="24" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="798" y="212" width="38" height="54" rx="4" fill="#22304A"/>
+<rect x="803" y="224" width="28" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="844" y="204" width="34" height="62" rx="4" fill="#22304A"/>
+<rect x="849" y="216" width="24" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="886" y="220" width="30" height="46" rx="4" fill="#283246"/>
+<rect x="891" y="232" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="1016" y="204" width="44" height="62" rx="4" fill="#3A2F24"/>
+<rect x="1021" y="216" width="34" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="1068" y="204" width="44" height="62" rx="4" fill="#1F3A40"/>
+<rect x="1073" y="216" width="34" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="704" y="352" width="442" height="4" rx="2" fill="#2A3348"/>
+<rect x="714" y="298" width="34" height="54" rx="4" fill="#332436"/>
+<rect x="719" y="310" width="24" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="756" y="306" width="34" height="46" rx="4" fill="#283246"/>
+<rect x="761" y="318" width="24" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="798" y="282" width="38" height="70" rx="4" fill="#1F3A40"/>
+<rect x="803" y="294" width="28" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="844" y="290" width="44" height="62" rx="4" fill="#283246"/>
+<rect x="849" y="302" width="34" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="896" y="306" width="30" height="46" rx="4" fill="#283246"/>
+<rect x="901" y="318" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="934" y="298" width="44" height="54" rx="4" fill="#1F3A40"/>
+<rect x="939" y="310" width="34" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="986" y="282" width="34" height="70" rx="4" fill="#3A2F24"/>
+<rect x="991" y="294" width="24" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="1028" y="306" width="30" height="46" rx="4" fill="#283246"/>
+<rect x="1033" y="318" width="20" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<rect x="1066" y="290" width="38" height="62" rx="4" fill="#332436"/>
+<rect x="1071" y="302" width="28" height="8" rx="2" fill="#C9D3E6" opacity=".12"/>
+<path class="pulse p0" d="M757 134 v-7 h7 M786 127 h7 v7 M793 172 v7 h-7 M764 179 h-7 v-7" fill="none" stroke="#5EEAD4" stroke-width="1.6" stroke-linecap="round"/>
+<path class="pulse p1" d="M833 126 v-7 h7 M862 119 h7 v7 M869 172 v7 h-7 M840 179 h-7 v-7" fill="none" stroke="#5EEAD4" stroke-width="1.6" stroke-linecap="round"/>
+<path class="pulse p2" d="M947 134 v-7 h7 M990 127 h7 v7 M997 172 v7 h-7 M954 179 h-7 v-7" fill="none" stroke="#5EEAD4" stroke-width="1.6" stroke-linecap="round"/>
+<path class="pulse p3" d="M711 208 v-7 h7 M744 201 h7 v7 M751 262 v7 h-7 M718 269 h-7 v-7" fill="none" stroke="#5EEAD4" stroke-width="1.6" stroke-linecap="round"/>
+<path class="pulse p4" d="M795 216 v-7 h7 M832 209 h7 v7 M839 262 v7 h-7 M802 269 h-7 v-7" fill="none" stroke="#5EEAD4" stroke-width="1.6" stroke-linecap="round"/>
+<path class="pulse p0" d="M1013 208 v-7 h7 M1056 201 h7 v7 M1063 262 v7 h-7 M1020 269 h-7 v-7" fill="none" stroke="#5EEAD4" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="833" y="98" width="96" height="18" rx="3" fill="#5EEAD4"/>
+<text class="mono" x="839" y="111" font-size="11" fill="#05070D" font-weight="700">sku_047 0.96</text>
+<rect x="924" y="200" width="84" height="64" rx="4" fill="url(#hot)" opacity=".08"/>
+<rect class="flow" x="924" y="200" width="84" height="64" rx="4" fill="none" stroke="url(#hot)" stroke-width="1.6"/>
+<text class="mono" x="966.0" y="236.0" font-size="11" fill="#FFB020" font-weight="700" text-anchor="middle">out of stock</text>
+</svg>

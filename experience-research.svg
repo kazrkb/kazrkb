@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-label="Undergraduate Research Assistant at CCDS–MIRA Wing, IUB">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+.p1{animation-delay:.35s}.p2{animation-delay:.7s}.p3{animation-delay:1.05s}.p4{animation-delay:1.4s}.p5{animation-delay:1.75s}
+.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.heat{transform-box:fill-box;transform-origin:center;animation:heat 3.2s ease-in-out infinite}
+@keyframes heat{0%,100%{opacity:.75;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
+.wave{animation:wave 6s linear infinite}
+@keyframes wave{to{transform:translateX(-60px)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
+<radialGradient id="cam" cx=".5" cy=".5" r=".5">
+ <stop offset="0" stop-color="#FFE08A" stop-opacity=".95"/><stop offset=".35" stop-color="#FF8A1F" stop-opacity=".75"/>
+ <stop offset=".7" stop-color="#E0245E" stop-opacity=".35"/><stop offset="1" stop-color="#E0245E" stop-opacity="0"/></radialGradient>
+<radialGradient id="lung" cx=".5" cy=".45" r=".52">
+ <stop offset="0" stop-color="#C9D3E6" stop-opacity=".18"/><stop offset=".7" stop-color="#C9D3E6" stop-opacity=".06"/>
+ <stop offset="1" stop-color="#C9D3E6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
+</defs>
+<rect width="1200" height="170" rx="20" fill="#0B0F1A"/>
+<rect x=".5" y=".5" width="1199" height="169" rx="19.5" fill="none" stroke="#1E2638"/>
+<text class="mono" x="48" y="52" font-size="13" fill="#5EEAD4" letter-spacing="1.5">RESEARCH  ·  NOV 2025 – MAY 2026</text>
+<text class="sans" x="46" y="94" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.5">Undergraduate Research Assistant</text>
+<text class="sans" x="48" y="126" font-size="17" fill="#A3ADC2">CCDS–MIRA Wing, Independent University, Bangladesh</text>
+<text class="mono" x="1152" y="84" font-size="15" fill="#F3F5FA" text-anchor="end">led a 3-member team</text>
+<text class="mono" x="1152" y="108" font-size="15" fill="#F3F5FA" text-anchor="end">on 2 of my 4 papers</text>
+<text class="mono" x="1152" y="132" font-size="13" fill="#6B7590" text-anchor="end">DICOM CT · chest X-ray pipelines</text>
+<rect x="1132" y="44" width="20" height="3" rx="1.5" fill="url(#hot)"/>
+</svg>

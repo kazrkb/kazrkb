@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" role="img" aria-label="Zero-shot multi-domain medical diagnosis with MobileSAM and BiomedCLIP">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+.p1{animation-delay:.35s}.p2{animation-delay:.7s}.p3{animation-delay:1.05s}.p4{animation-delay:1.4s}.p5{animation-delay:1.75s}
+.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.heat{transform-box:fill-box;transform-origin:center;animation:heat 3.2s ease-in-out infinite}
+@keyframes heat{0%,100%{opacity:.75;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
+.wave{animation:wave 6s linear infinite}
+@keyframes wave{to{transform:translateX(-60px)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
+<radialGradient id="cam" cx=".5" cy=".5" r=".5">
+ <stop offset="0" stop-color="#FFE08A" stop-opacity=".95"/><stop offset=".35" stop-color="#FF8A1F" stop-opacity=".75"/>
+ <stop offset=".7" stop-color="#E0245E" stop-opacity=".35"/><stop offset="1" stop-color="#E0245E" stop-opacity="0"/></radialGradient>
+<radialGradient id="lung" cx=".5" cy=".45" r=".52">
+ <stop offset="0" stop-color="#C9D3E6" stop-opacity=".18"/><stop offset=".7" stop-color="#C9D3E6" stop-opacity=".06"/>
+ <stop offset="1" stop-color="#C9D3E6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
+</defs>
+<rect width="600" height="360" rx="20" fill="#0B0F1A"/>
+<rect x=".5" y=".5" width="599" height="359" rx="19.5" fill="none" stroke="#1E2638"/>
+<text class="mono" x="36" y="54" font-size="13" fill="#FFB020" letter-spacing="1.2">FOUNDATION MODELS · MIET 2026</text>
+<text class="sans" x="34" y="98" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">Zero-Shot Diagnosis</text>
+<text class="sans" x="36" y="138" font-size="16" fill="#A3ADC2">Pairs MobileSAM segmentation with BiomedCLIP to diagnose</text>
+<text class="sans" x="36" y="162" font-size="16" fill="#A3ADC2">across medical domains with no task-specific training.</text>
+<line x1="36" y1="196" x2="564" y2="196" stroke="#1E2638"/>
+<text class="sans" x="36" y="248" font-size="23" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">MobileSAM</text>
+<text class="mono" x="36" y="274" font-size="14" fill="#6B7590">segmentation</text>
+<text class="sans" x="216" y="248" font-size="23" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">BiomedCLIP</text>
+<text class="mono" x="216" y="274" font-size="14" fill="#6B7590">vision-language</text>
+<text class="sans" x="396" y="248" font-size="23" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">zero-shot</text>
+<text class="mono" x="396" y="274" font-size="14" fill="#6B7590">no task training</text>
+<line x1="36" y1="304" x2="564" y2="304" stroke="#1E2638"/>
+<text class="mono" x="36" y="334" font-size="13" fill="#6B7590">2026  ·  multi-domain medical imaging</text>
+<g>
+<rect x="446" y="26" width="122" height="100" rx="10" fill="#05070D" stroke="#1E2638"/>
+<circle cx="490" cy="76" r="30" fill="#C9D3E6" opacity=".07"/>
+<path class="pulse" d="M476 64 q10 -12 24 -4 q14 10 4 24 q-10 12 -24 4 q-12 -8 -4 -24z" fill="url(#hot)" fill-opacity=".25" stroke="url(#hot)" stroke-width="1.6"/>
+<g class="mono" font-size="9" fill="#A3ADC2">
+<rect x="528" y="46" width="32" height="14" rx="3" fill="#1A2233"/><text x="533" y="56">mri</text>
+<rect x="528" y="68" width="32" height="14" rx="3" fill="#5EEAD4" fill-opacity=".9"/><text x="532" y="78" fill="#05070D" font-weight="700">ct</text>
+<rect x="528" y="90" width="32" height="14" rx="3" fill="#1A2233"/><text x="532" y="100">xray</text></g>
+<line class="flow" x1="508" y1="76" x2="526" y2="76" stroke="#5EEAD4" stroke-width="1.5"/>
+</g>
+</svg>

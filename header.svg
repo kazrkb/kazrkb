@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Kazi Md. Rakibul Hassan — AI/ML Engineer, computer vision and medical imaging">
+  <style>
+    .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+    .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .scan{animation:scan 5s cubic-bezier(.45,0,.55,1) infinite}
+    @keyframes scan{0%{transform:translateY(0)}50%{transform:translateY(318px)}100%{transform:translateY(0)}}
+    .heat{transform-box:fill-box;transform-origin:center;animation:heat 3.2s ease-in-out infinite}
+    @keyframes heat{0%,100%{opacity:.75;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
+    .box{animation:box 3.2s ease-in-out infinite}
+    @keyframes box{0%,100%{opacity:.85}50%{opacity:1}}
+    .dot{animation:blink 1.6s ease-in-out infinite}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+  </style>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1C2436"/>
+    </pattern>
+    <linearGradient id="fadeL" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".55" stop-color="#fff" stop-opacity=".9"/>
+    </linearGradient>
+    <mask id="dotMask"><rect width="1200" height="440" fill="url(#fadeL)"/></mask>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 40) scale(520 320)">
+      <stop offset="0" stop-color="#FF7A1A" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lung" cx=".5" cy=".45" r=".52">
+      <stop offset="0" stop-color="#C9D3E6" stop-opacity=".16"/>
+      <stop offset=".7" stop-color="#C9D3E6" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#C9D3E6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cam" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#FFE08A" stop-opacity=".95"/>
+      <stop offset=".35" stop-color="#FF8A1F" stop-opacity=".75"/>
+      <stop offset=".7" stop-color="#E0245E" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#E0245E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5EEAD4" stop-opacity="0"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity=".22"/>
+    </linearGradient>
+    <linearGradient id="heatText" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFB020"/>
+      <stop offset="1" stop-color="#FF4D6D"/>
+    </linearGradient>
+    <clipPath id="panel"><rect x="712" y="44" width="444" height="352" rx="14"/></clipPath>
+  </defs>
+
+  <!-- card -->
+  <rect width="1200" height="440" rx="22" fill="#0B0F1A"/>
+  <rect width="1200" height="440" rx="22" fill="url(#dots)" mask="url(#dotMask)"/>
+  <rect width="1200" height="440" rx="22" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="1199" height="439" rx="21.5" fill="none" stroke="#1E2638"/>
+
+  <!-- left: identity -->
+  <g >
+    <circle class="dot" cx="70" cy="91" r="5" fill="#5EEAD4"/>
+    <text class="mono" x="86" y="96" font-size="15" fill="#5EEAD4" letter-spacing=".5">open to AI/ML engineer roles</text>
+  </g>
+  <g class="sans" font-weight="700" fill="#F3F5FA" letter-spacing="-1.5">
+    <text x="62" y="180" font-size="68">Kazi Md.</text>
+    <text x="62" y="252" font-size="68">Rakibul Hassan</text>
+  </g>
+  <text class="sans" x="64" y="304" font-size="22" fill="#A3ADC2">AI/ML Engineer — computer vision &amp; medical imaging</text>
+  <text class="mono" x="64" y="352" font-size="16" fill="#E8ECF4">research <tspan fill="url(#heatText)" font-weight="700">→</tspan> model <tspan fill="url(#heatText)" font-weight="700">→</tspan> production</text>
+  <text class="mono" x="64" y="388" font-size="13" fill="#6B7590" letter-spacing=".3">Dhaka, Bangladesh  ·  4 peer-reviewed papers in 2026</text>
+
+  <!-- right: the scan panel -->
+  <rect x="712" y="44" width="444" height="352" rx="14" fill="#05070D" stroke="#1E2638"/>
+  <g clip-path="url(#panel)">
+    <!-- abstract chest radiograph -->
+    <rect x="926" y="70" width="20" height="330" rx="8" fill="#C9D3E6" opacity=".05"/>
+    <ellipse cx="866" cy="232" rx="68" ry="118" fill="url(#lung)"/>
+    <ellipse cx="1006" cy="232" rx="68" ry="118" fill="url(#lung)"/>
+    <g fill="none" stroke="#C9D3E6" stroke-opacity=".07" stroke-width="5" stroke-linecap="round">
+      <path d="M928 132 Q860 118 806 158"/><path d="M944 132 Q1012 118 1066 158"/>
+      <path d="M928 164 Q852 150 798 192"/><path d="M944 164 Q1020 150 1074 192"/>
+      <path d="M928 196 Q850 182 796 226"/><path d="M944 196 Q1022 182 1076 226"/>
+      <path d="M928 228 Q852 214 800 260"/><path d="M944 228 Q1020 214 1072 260"/>
+      <path d="M928 260 Q858 248 808 292"/><path d="M944 260 Q1014 248 1064 292"/>
+      <path d="M928 292 Q866 282 822 322"/><path d="M944 292 Q1006 282 1050 322"/>
+    </g>
+    <!-- grad-cam -->
+    <circle class="heat" cx="1012" cy="272" r="58" fill="url(#cam)"/>
+    <!-- detection -->
+    <g class="box" stroke="#5EEAD4" stroke-width="2.5" fill="none" stroke-linecap="round">
+      <path d="M952 228 v-16 h16"/><path d="M1058 212 h16 v16"/>
+      <path d="M1074 316 v16 h-16"/><path d="M968 332 h-16 v-16"/>
+    </g>
+    <rect x="952" y="186" width="122" height="20" rx="4" fill="#5EEAD4"/>
+    <text class="mono" x="960" y="200" font-size="12" font-weight="700" fill="#05070D">pneumonia 0.97</text>
+    <!-- scan beam -->
+    <g class="scan">
+      <rect x="712" y="44" width="444" height="34" fill="url(#beam)"/>
+      <rect x="712" y="77" width="444" height="1.5" fill="#5EEAD4" opacity=".8"/>
+    </g>
+  </g>
+  <!-- panel chrome -->
+  <text class="mono" x="730" y="72" font-size="12" fill="#6B7590">grad-cam · chest_xray.dcm</text>
+  <text class="mono" x="1138" y="72" font-size="12" fill="#A3ADC2" text-anchor="end">AUC 0.973</text>
+  <text class="mono" x="730" y="380" font-size="12" fill="#6B7590">onnx · fastapi · aws</text>
+  <text class="mono" x="1138" y="380" font-size="12" fill="#5EEAD4" text-anchor="end">3.2 ms</text>
+</svg>

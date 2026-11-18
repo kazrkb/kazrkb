@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" role="img" aria-label="PneumoVision: pneumonia detection on AWS, AUC 0.973">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+.p1{animation-delay:.35s}.p2{animation-delay:.7s}.p3{animation-delay:1.05s}.p4{animation-delay:1.4s}.p5{animation-delay:1.75s}
+.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.heat{transform-box:fill-box;transform-origin:center;animation:heat 3.2s ease-in-out infinite}
+@keyframes heat{0%,100%{opacity:.75;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
+.wave{animation:wave 6s linear infinite}
+@keyframes wave{to{transform:translateX(-60px)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
+<radialGradient id="cam" cx=".5" cy=".5" r=".5">
+ <stop offset="0" stop-color="#FFE08A" stop-opacity=".95"/><stop offset=".35" stop-color="#FF8A1F" stop-opacity=".75"/>
+ <stop offset=".7" stop-color="#E0245E" stop-opacity=".35"/><stop offset="1" stop-color="#E0245E" stop-opacity="0"/></radialGradient>
+<radialGradient id="lung" cx=".5" cy=".45" r=".52">
+ <stop offset="0" stop-color="#C9D3E6" stop-opacity=".18"/><stop offset=".7" stop-color="#C9D3E6" stop-opacity=".06"/>
+ <stop offset="1" stop-color="#C9D3E6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
+</defs>
+<rect width="600" height="360" rx="20" fill="#0B0F1A"/>
+<rect x=".5" y=".5" width="599" height="359" rx="19.5" fill="none" stroke="#1E2638"/>
+<text class="mono" x="36" y="54" font-size="13" fill="#FFB020" letter-spacing="1.2">MEDICAL IMAGING · CLOUD</text>
+<text class="sans" x="34" y="98" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">PneumoVision</text>
+<text class="sans" x="36" y="138" font-size="16" fill="#A3ADC2">Hybrid CNN–ViT chest X-ray classifier with Grad-CAM maps,</text>
+<text class="sans" x="36" y="162" font-size="16" fill="#A3ADC2">served from a private AWS VPC with Auto Scaling and S3.</text>
+<line x1="36" y1="196" x2="564" y2="196" stroke="#1E2638"/>
+<text class="sans" x="36" y="248" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">0.973</text>
+<text class="mono" x="36" y="274" font-size="14" fill="#6B7590">AUC</text>
+<text class="sans" x="216" y="248" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">0.949</text>
+<text class="mono" x="216" y="274" font-size="14" fill="#6B7590">sensitivity</text>
+<text class="sans" x="396" y="248" font-size="30" fill="#F3F5FA" font-weight="700" letter-spacing="-.8">3.2 ms</text>
+<text class="mono" x="396" y="274" font-size="14" fill="#6B7590">per request</text>
+<line x1="36" y1="304" x2="564" y2="304" stroke="#1E2638"/>
+<text class="mono" x="36" y="334" font-size="13" fill="#6B7590">Apr 2026  ·  ONNX · FastAPI · EC2</text>
+<text class="mono" x="564" y="334" font-size="13" fill="#5EEAD4" text-anchor="end">case study ↗</text>
+<g>
+<rect x="446" y="26" width="122" height="100" rx="10" fill="#05070D" stroke="#1E2638"/>
+<ellipse cx="488" cy="78" rx="20" ry="38" fill="url(#lung)"/><ellipse cx="526" cy="78" rx="20" ry="38" fill="url(#lung)"/>
+<g stroke="#C9D3E6" stroke-opacity=".08" stroke-width="2.5" fill="none" stroke-linecap="round">
+<path d="M505 54 Q484 48 468 62"/><path d="M509 54 Q530 48 546 62"/><path d="M505 70 Q482 64 466 80"/><path d="M509 70 Q532 64 548 80"/>
+<path d="M505 86 Q484 80 470 96"/><path d="M509 86 Q530 80 544 96"/></g>
+<circle class="heat" cx="530" cy="92" r="20" fill="url(#cam)"/>
+<path class="pulse" d="M512 81 v-7 h7 M541 74 h7 v7 M548 103 v7 h-7 M519 110 h-7 v-7" fill="none" stroke="#5EEAD4" stroke-width="1.6" stroke-linecap="round"/>
+</g>
+</svg>

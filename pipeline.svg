@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="How I ship a model: data, label, train, validate, explain, ship">
+<style>
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Inter,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+.p1{animation-delay:.35s}.p2{animation-delay:.7s}.p3{animation-delay:1.05s}.p4{animation-delay:1.4s}.p5{animation-delay:1.75s}
+.flow{stroke-dasharray:4 6;animation:flow 1.2s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-20}}
+.heat{transform-box:fill-box;transform-origin:center;animation:heat 3.2s ease-in-out infinite}
+@keyframes heat{0%,100%{opacity:.75;transform:scale(.94)}50%{opacity:1;transform:scale(1.06)}}
+.wave{animation:wave 6s linear infinite}
+@keyframes wave{to{transform:translateX(-60px)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="hot" x1="0" x2="1"><stop offset="0" stop-color="#FFB020"/><stop offset="1" stop-color="#FF4D6D"/></linearGradient>
+<radialGradient id="cam" cx=".5" cy=".5" r=".5">
+ <stop offset="0" stop-color="#FFE08A" stop-opacity=".95"/><stop offset=".35" stop-color="#FF8A1F" stop-opacity=".75"/>
+ <stop offset=".7" stop-color="#E0245E" stop-opacity=".35"/><stop offset="1" stop-color="#E0245E" stop-opacity="0"/></radialGradient>
+<radialGradient id="lung" cx=".5" cy=".45" r=".52">
+ <stop offset="0" stop-color="#C9D3E6" stop-opacity=".18"/><stop offset=".7" stop-color="#C9D3E6" stop-opacity=".06"/>
+ <stop offset="1" stop-color="#C9D3E6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1C2436"/></pattern>
+</defs>
+<rect width="1200" height="250" rx="20" fill="#0B0F1A"/>
+<rect x=".5" y=".5" width="1199" height="249" rx="19.5" fill="none" stroke="#1E2638"/>
+<text class="mono" x="48" y="54" font-size="13" fill="#6B7590" letter-spacing="1.5">HOW I SHIP A MODEL</text>
+<rect x="48.0" y="92" width="160" height="112" rx="14" fill="#05070D" stroke="#1E2638" stroke-width="1"/>
+<text class="mono" x="64.0" y="118" font-size="12" fill="#6B7590">01</text>
+<text class="sans" x="64.0" y="146" font-size="20" fill="#F3F5FA" font-weight="700">Data</text>
+<text class="mono" x="64.0" y="170" font-size="12" fill="#A3ADC2">DICOM · X-ray</text>
+<text class="mono" x="64.0" y="188" font-size="12" fill="#A3ADC2">shelf photos</text>
+<line class="flow" x1="212.0" y1="148.0" x2="232.8" y2="148.0" stroke="#5EEAD4" stroke-width="2"/>
+<rect x="236.8" y="92" width="160" height="112" rx="14" fill="#05070D" stroke="#1E2638" stroke-width="1"/>
+<text class="mono" x="252.8" y="118" font-size="12" fill="#6B7590">02</text>
+<text class="sans" x="252.8" y="146" font-size="20" fill="#F3F5FA" font-weight="700">Label</text>
+<text class="mono" x="252.8" y="170" font-size="12" fill="#A3ADC2">CVAT · FastAPI</text>
+<text class="mono" x="252.8" y="188" font-size="12" fill="#A3ADC2">annotator team</text>
+<line class="flow" x1="400.8" y1="148.0" x2="421.6" y2="148.0" stroke="#5EEAD4" stroke-width="2"/>
+<rect x="425.6" y="92" width="160" height="112" rx="14" fill="#05070D" stroke="#1E2638" stroke-width="1"/>
+<text class="mono" x="441.6" y="118" font-size="12" fill="#6B7590">03</text>
+<text class="sans" x="441.6" y="146" font-size="20" fill="#F3F5FA" font-weight="700">Train</text>
+<text class="mono" x="441.6" y="170" font-size="12" fill="#A3ADC2">PyTorch · YOLO</text>
+<text class="mono" x="441.6" y="188" font-size="12" fill="#A3ADC2">RF-DETR · ViT</text>
+<line class="flow" x1="589.6000000000001" y1="148.0" x2="610.4000000000001" y2="148.0" stroke="#5EEAD4" stroke-width="2"/>
+<rect x="614.4000000000001" y="92" width="160" height="112" rx="14" fill="#05070D" stroke="url(#hot)" stroke-width="1.6"/>
+<text class="mono" x="630.4000000000001" y="118" font-size="12" fill="#FFB020">04</text>
+<text class="sans" x="630.4000000000001" y="146" font-size="20" fill="#F3F5FA" font-weight="700">Validate</text>
+<text class="mono" x="630.4000000000001" y="170" font-size="12" fill="#A3ADC2">stratified k-fold</text>
+<text class="mono" x="630.4000000000001" y="188" font-size="12" fill="#A3ADC2">external sets</text>
+<text class="mono" x="694.4000000000001" y="234" font-size="12" fill="#FFB020" text-anchor="middle">never trust one split</text>
+<line class="flow" x1="778.4000000000001" y1="148.0" x2="799.2" y2="148.0" stroke="#5EEAD4" stroke-width="2"/>
+<rect x="803.2" y="92" width="160" height="112" rx="14" fill="#05070D" stroke="#1E2638" stroke-width="1"/>
+<text class="mono" x="819.2" y="118" font-size="12" fill="#6B7590">05</text>
+<text class="sans" x="819.2" y="146" font-size="20" fill="#F3F5FA" font-weight="700">Explain</text>
+<text class="mono" x="819.2" y="170" font-size="12" fill="#A3ADC2">Grad-CAM · SHAP</text>
+<text class="mono" x="819.2" y="188" font-size="12" fill="#A3ADC2">ablation</text>
+<line class="flow" x1="967.2" y1="148.0" x2="988.0" y2="148.0" stroke="#5EEAD4" stroke-width="2"/>
+<rect x="992.0" y="92" width="160" height="112" rx="14" fill="#05070D" stroke="#1E2638" stroke-width="1"/>
+<text class="mono" x="1008.0" y="118" font-size="12" fill="#6B7590">06</text>
+<text class="sans" x="1008.0" y="146" font-size="20" fill="#F3F5FA" font-weight="700">Ship</text>
+<text class="mono" x="1008.0" y="170" font-size="12" fill="#A3ADC2">ONNX · Docker</text>
+<text class="mono" x="1008.0" y="188" font-size="12" fill="#A3ADC2">FastAPI · AWS</text>
+</svg>
